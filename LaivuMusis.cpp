@@ -9,8 +9,8 @@ using namespace std;
 
 LaivuMusis::LaivuMusis()
 {
-    LaivaiKompiuterio = 10;
-    LaivaiZmogaus = 10;
+    LaivaiKompiuterio = 9;
+    LaivaiZmogaus = 9;
 }
 
 LaivuMusis::LaivuMusis(int cpu, int man)

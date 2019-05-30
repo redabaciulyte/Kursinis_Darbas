@@ -42,7 +42,7 @@ int main()
     }
     if(LaivaiKompiuterio==0)
     {
-        cout << "Laimejo Kampiuteris" << endl;
+        cout << "Laimejo Kompiuteris" << endl;
     }
     else
         cout << "Laimejai!" << endl;
