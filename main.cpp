@@ -16,8 +16,11 @@ int main()
     int LaivaiKompiuterio;
     int LaivaiZmogaus;
 
-    cout << "IVESKITE LAIVU SKAICIU:" << endl;
+    cout << "IVESKITE NORIMA LAIVU SKAICIU ( max20 ):" << endl;
     cin >> x;
+    if (x > 20 || x <=0){
+        x = 10;
+    }
     cpu = x;
     zm = x;
 
