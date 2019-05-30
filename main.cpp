@@ -16,7 +16,10 @@ int main()
     int LaivaiKompiuterio;
     int LaivaiZmogaus;
 
-    cout << "IVESKITE NORIMA LAIVU SKAICIU ( max20 ):" << endl;
+    cout << "                                    SVEIKI ATVYKE I GERIAUSIA PASAULYJE ZAIDIMA" << endl;
+    cout << "\n";
+    cout << "\n";
+    cout << "                                      IVESKITE NORIMA LAIVU SKAICIU ( max20 ):";
     cin >> x;
     if (x > 20 || x <=0){
         x = 10;

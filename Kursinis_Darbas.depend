@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1559248911 source:c:\users\ignas\desktop\cpp\kursinis_darbas\laivumusis.cpp
+1559249829 source:c:\users\ignas\desktop\cpp\kursinis_darbas\laivumusis.cpp
 	"LaivuMusis.h"
 	<iostream>
 	<time.h>
