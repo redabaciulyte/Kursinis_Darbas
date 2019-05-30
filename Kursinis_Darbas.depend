@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559248911 source:c:\users\ignas\desktop\cpp\kursinis_darbas\laivumusis.cpp
+	"LaivuMusis.h"
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<Windows.h>
+
+1559248950 c:\users\ignas\desktop\cpp\kursinis_darbas\laivumusis.h
+
+1559248923 source:c:\users\ignas\desktop\cpp\kursinis_darbas\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"LaivuMusis.h"
+	<Windows.h>
+
