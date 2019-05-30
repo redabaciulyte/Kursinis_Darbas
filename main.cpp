@@ -9,8 +9,7 @@ using namespace std;
 
 int main()
 {
-    int cpu, zm;
-    int x;
+    int cpu, zm, x;
     int cpulaivai;
     int zmlaivai;
 
