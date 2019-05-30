@@ -42,7 +42,7 @@ int main()
     }
     if(LaivaiKompiuterio==0)
     {
-        cout << "Laimejo Computer" << endl;
+        cout << "Laimejo Xebra" << endl;
     }
     else
         cout << "Laimejai!" << endl;
